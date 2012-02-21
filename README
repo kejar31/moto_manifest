@@ -1,0 +1,2 @@
+$ repo init -u https://github.com/teamgummy/moto_manifest.git -b MotoICS
+$ repo sync
